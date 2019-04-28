@@ -12,11 +12,10 @@
 
 ### room staffing
 room have number of children and grade-level.
-
-Formula for grade-level and number of children in the room, determines the number of staff required.
+Formula for grade-level and number of children in the room, determines the number and type of staff required.
 
 ### staff availibility 
 (vacation, sick-leave, breaks, meetings, lesson-planning)
-staff preferance for work times or time lengths and rooms are hints to placement
+staff preferance for work times or work time max or minimum lengths and prefered room assignments are hints to placement
 staff notification when shedules are made or changed.
 
